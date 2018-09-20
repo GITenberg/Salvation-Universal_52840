@@ -1,5 +1,8 @@
 _repo: Salvation-Universal_52840
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52840-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Joseph Fielding
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '44181'
     url: http://www.gutenberg.org/2009/agents/44181
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52840#Salvation-Universal
 gutenberg_issued: '2016-08-18'
 gutenberg_type: Text
 identifiers:
