@@ -1,0 +1,26 @@
+_repo: Salvation-Universal_52840
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Joseph Fielding
+    birthdate: 1876
+    deathdate: 1972
+    gutenberg_agent_id: '44181'
+    url: http://www.gutenberg.org/2009/agents/44181
+description: ''
+gutenberg_issued: '2016-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52840'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Salvation'
+- !lcsh 'Church of Jesus Christ of Latter-day Saints -- Doctrines'
+- !lcc 'BX'
+- !lcsh 'Mormon Church -- Doctrines'
+- GITenberg
+title: Salvation Universal
+url: http://www.gutenberg.org/ebooks/52840
